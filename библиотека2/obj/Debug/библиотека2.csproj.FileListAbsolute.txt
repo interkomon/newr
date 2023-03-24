@@ -1,0 +1,5 @@
+C:\Users\325L-10\Desktop\Ковязин ПР-21\библиотека2\bin\Debug\библиотека2.dll
+C:\Users\325L-10\Desktop\Ковязин ПР-21\библиотека2\bin\Debug\библиотека2.pdb
+C:\Users\325L-10\Desktop\Ковязин ПР-21\библиотека2\obj\Debug\библиотека2.csproj.CoreCompileInputs.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\библиотека2\obj\Debug\библиотека2.dll
+C:\Users\325L-10\Desktop\Ковязин ПР-21\библиотека2\obj\Debug\библиотека2.pdb

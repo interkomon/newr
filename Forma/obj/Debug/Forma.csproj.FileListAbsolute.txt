@@ -1,0 +1,28 @@
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.Form1.resources
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.Properties.Resources.resources
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.csproj.GenerateResource.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\bin\Debug\Forma.exe.config
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\bin\Debug\Forma.exe
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\bin\Debug\Forma.pdb
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.csproj.CopyComplete
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.exe
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.pdb
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\obj\Debug\Forma.csproj.AssemblyReference.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\bin\Debug\библиотека2.dll
+C:\Users\325L-10\Desktop\Ковязин ПР-21\Forma\bin\Debug\библиотека2.pdb
+F:\Forma\bin\Debug\Forma.exe.config
+F:\Forma\bin\Debug\Forma.exe
+F:\Forma\bin\Debug\Forma.pdb
+F:\Forma\bin\Debug\библиотека2.dll
+F:\Forma\bin\Debug\библиотека2.pdb
+F:\Forma\obj\Debug\Forma.csproj.AssemblyReference.cache
+F:\Forma\obj\Debug\Forma.csproj.SuggestedBindingRedirects.cache
+F:\Forma\obj\Debug\Forma.Form1.resources
+F:\Forma\obj\Debug\Forma.Properties.Resources.resources
+F:\Forma\obj\Debug\Forma.csproj.GenerateResource.cache
+F:\Forma\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+F:\Forma\obj\Debug\Forma.csproj.CopyComplete
+F:\Forma\obj\Debug\Forma.exe
+F:\Forma\obj\Debug\Forma.pdb

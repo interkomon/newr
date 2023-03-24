@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pract14", "pract14.csproj", "{CAB3DF33-AD20-4CC4-AD52-9CCBE73B7B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forma", "..\Forma\Forma.csproj", "{C132A021-C542-464B-B29D-FFDC28776C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "библиотека2", "..\библиотека2\библиотека2.csproj", "{D5889A84-AB92-4494-BFC6-1205FAADE71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB3DF33-AD20-4CC4-AD52-9CCBE73B7B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB3DF33-AD20-4CC4-AD52-9CCBE73B7B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB3DF33-AD20-4CC4-AD52-9CCBE73B7B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB3DF33-AD20-4CC4-AD52-9CCBE73B7B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C132A021-C542-464B-B29D-FFDC28776C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C132A021-C542-464B-B29D-FFDC28776C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C132A021-C542-464B-B29D-FFDC28776C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C132A021-C542-464B-B29D-FFDC28776C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5889A84-AB92-4494-BFC6-1205FAADE71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5889A84-AB92-4494-BFC6-1205FAADE71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5889A84-AB92-4494-BFC6-1205FAADE71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5889A84-AB92-4494-BFC6-1205FAADE71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E1393E8-EADC-45BC-831D-EB9F8AD67A9F}
+	EndGlobalSection
+EndGlobal
